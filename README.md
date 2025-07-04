@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=youssef-113" alt="youssef-113" /></a> </p>
 
-- 🔭 I’m currently working on [Sales Forecasting](https://github.com/AhmedGamall-1/Sales-forcasting-and-optmization)
+- 🔭 I’m currently working on [Full-stack ]()
 
-- 🌱 I’m currently learning **Data Modeling and Ai**
+- 🌱 I’m currently learning **Attacks and php for backend**
 
-- 💬 Ask me about **Data Analysis, Java, Python, CPP, React, SQL**
+- 💬 Ask me about **ML, data scientist, Data Analysis, front-end, back-end, Java, Python, CPP, React, SQl**
 
 - 📫 How to reach me **yossf.abdla311@gmail.com**
 
