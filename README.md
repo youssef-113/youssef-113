@@ -4,10 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Youssef%20Bassiony&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Gen%20AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20ML%20Engineer&descAlignY=58&descSize=18&descColor=a78bfa" width="100%"/>
 
 <!-- Animated Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&lines=🤖+Generative+%26+Agentic+AI+Engineer;🧠+Building+RAG+Pipelines+%26+LLM+Systems;📊+End-to-End+ML+%26+Data+Science;🔧+Full-Stack+%7C+React+%7C+PHP+%7C+Node.js;🚀+Turning+Data+Into+Business+Impact" alt="Typing SVG" />
-</a>
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=22C55E&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+Data+Scientist;Building+RAG+%26+LLM+Systems;Full-Stack+Developer;Turning+Ideas+into+Products" />
 <br/>
 
 <!-- Profile Views + Followers Badges -->
