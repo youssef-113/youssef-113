@@ -79,32 +79,68 @@ print(me)
 
 ## 🏆 Experience Timeline
 
-```
-2022 ──────────────────────────────────────────────────────────── Present
-  │
-  ├── 🎓  Cairo University — B.Sc. Computer Science          [2022 → Present]
-  │
-  ├── 💼  Cloudjet LLC — Full-Stack PHP/JS/MySQL Dev          [Jun–Sep 2025]
-  │        ↳ Security hardening · Real-time systems · Backend architecture
-  │
-  ├── 🤖  Hoven (Saudi Arabia, Remote) — AI & Automation Dev  [Oct 2024–Feb 2025]
-  │        ↳ ↓50% manual data entry · Shopify/Salla/Odoo automation · n8n/Zapier
-  │
-  ├── 📊  DEPI × EYouth — Data Science Intern                  [Oct 2024–May 2025]
-  │        ↳ 100K+ record datasets · Power BI · +12% model performance
-  │
-  ├── 📈  Vmax — Data Scientist & ML Engineer                  [Jul 2025 → Present]
-  │        ↳ 20K+ sales records · CRM · Power BI · +35% data accessibility
-  │
-  ├── 🧠  DEPI × EYouth — Gen AI Engineer Intern              [Oct 2025 → Present]
-  │        ↳ Transformers · LoRA/PEFT · RAG · Multi-agent orchestration
-  │
-  ├── 🔬  Freelancer — Data Scientist & ML Engineer           [Feb 2025 → Present]
-  │        ↳ Customer churn models · Python · End-to-end pipelines
-  │
-  └── 📦  INJAZ Egypt — Product Manager Trainee               [Jan–Mar 2026]
-           ↳ MVP design · Business model · Value proposition
-```
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=700&lines=My+Journey+in+AI+%26+Data;Building+Real+Impact+Projects;From+Student+to+AI+Engineer" />
+</p>
+
+---
+
+<table align="center">
+<tr>
+<th>📅 Period</th>
+<th>🚀 Role & Organization</th>
+<th>📌 Key Impact</th>
+</tr>
+
+<tr>
+<td><b>2022 → Present</b></td>
+<td>🎓 Cairo University — B.Sc. Computer Science</td>
+<td>Strong foundation in CS, AI, and data systems</td>
+</tr>
+
+<tr>
+<td><b>Jun–Sep 2025</b></td>
+<td>💼 Cloudjet LLC — Full-Stack Developer</td>
+<td>Security hardening · Real-time systems · Backend architecture</td>
+</tr>
+
+<tr>
+<td><b>Oct 2024–Feb 2025</b></td>
+<td>🤖 Hoven (Remote) — AI & Automation Developer</td>
+<td><b>↓50%</b> manual work · Shopify/Salla/Odoo automation · n8n/Zapier</td>
+</tr>
+
+<tr>
+<td><b>Oct 2024–May 2025</b></td>
+<td>📊 DEPI × EYouth — Data Science Intern</td>
+<td>100K+ records · Power BI · <b>+12%</b> model performance</td>
+</tr>
+
+<tr>
+<td><b>Jul 2025 → Present</b></td>
+<td>📈 Vmax — Data Scientist & ML Engineer</td>
+<td>20K+ records · CRM · Power BI · <b>+35%</b> data accessibility</td>
+</tr>
+
+<tr>
+<td><b>Oct 2025 → Present</b></td>
+<td>🧠 DEPI × EYouth — Gen AI Engineer</td>
+<td>Transformers · LoRA/PEFT · RAG · Multi-agent systems</td>
+</tr>
+
+<tr>
+<td><b>Feb 2025 → Present</b></td>
+<td>🔬 Freelancer — Data Scientist & ML Engineer</td>
+<td>Churn models · Python · End-to-end ML pipelines</td>
+</tr>
+
+<tr>
+<td><b>Jan–Mar 2026</b></td>
+<td>📦 INJAZ Egypt — Product Manager Trainee</td>
+<td>MVP design · Business model · Value proposition</td>
+</tr>
+
+</table>
 
 ---
 
@@ -150,10 +186,6 @@ print(me)
 ## 📈 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=youssef-113&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&ring_color=7c3aed" height="165"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssef-113&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" height="165"/>
 
 <br/>
 
@@ -203,9 +235,6 @@ print(me)
 ---
 
 <div align="center">
-
-<!-- Snake animation (requires GitHub Actions — see setup below) -->
-<img src="https://raw.githubusercontent.com/youssef-113/youssef-113/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 
 <br/>
 
