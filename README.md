@@ -38,6 +38,21 @@ print(me)
 
 ---
 
+## 📊 At a Glance
+ 
+<div align="center">
+    
+| 🤖 Gen AI | 📊 Data Science | 🌐 Full-Stack | ⚙️ Automation |
+|:---------:|:--------------:|:-------------:|:-------------:|
+| LLM Fine-tuning (LoRA/PEFT) | End-to-End ML Pipelines | React · PHP · Node.js | n8n · Zapier · Make |
+| Agentic AI Orchestration | Power BI Dashboards | MySQL · MongoDB | Shopify · Salla · Odoo |
+| RAG + Re-ranking Systems | Streamlit · Plotly | REST APIs · Docker | Workflow Automation |
+| Diffusion Models | 100K+ Record Datasets | Security & Auth | Python Scripting |
+ 
+</div>
+
+---
+
 ## 🛰️ Tech Radar
 
 <div align="center">
