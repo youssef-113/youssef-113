@@ -165,13 +165,13 @@ print(me)
 
 | 🏅 | Project | Stack | Impact |
 |:---:|:--------|:------|:-------|
-| 🥇 | **[Sports Training Management System](https://github.com/youssef-113)** — *1st Place Winner* | PHP · MySQL · Security | 200+ users, full security suite |
-| 📊 | **[VMAX Sales CRM](https://github.com/youssef-113)** | React · PHP · ML Pipeline | -40% manual CRM time, +35% reporting |
-| 🧠 | **[Fine-Tuned BERT Classifier](https://github.com/youssef-113)** | PyTorch · HuggingFace · Streamlit | 91% accuracy |
+| 🥇 | **[Sports Training Management System](https://sport-management-main.vercel.app/)** — *1st Place Winner* | PHP · MySQL · Security | 200+ users, full security suite 
+| 📊 | **[VMAX Sales CRM](https://vmax-crm.vercel.app/)** | React · PHP · ML Pipeline | -40% manual CRM time, +35% reporting |
+| 🧠 | **[Fine-Tuned BERT Classifier](https://fine-tune-bert-for-text-classification-bwxjhkm4nvggmwzgr7arsy.streamlit.app/)** | PyTorch · HuggingFace · Streamlit | 91% accuracy |
 | 🎓 | **[Student Behavior Prediction](https://github.com/youssef-113)** | Python · Scikit-learn · Dashboard | 93% prediction accuracy |
-| 🚗 | **[Car Sales Forecasting](https://github.com/youssef-113)** | Python · Power BI · ML | 30-day price forecasting |
-| 🔢 | **[DCGAN Digit Generator](https://github.com/youssef-113)** | PyTorch · TorchVision · Streamlit | Real-time digit synthesis |
-| 🏥 | **[Life Code — Digital Health Emergency](https://github.com/youssef-113)** | Full-Stack · NFC/QR · Redis | -70–90% emergency lookup time |
+| 🚗 | **[Car Sales Forecasting](https://sales-forcasting-caes-sales-7kanxprhiwrjwimejctj4o.streamlit.app/)** | Python · Power BI · ML | 30-day price forecasting |
+| 🔢 | **[DCGAN Digit Generator]([https://github.com/youssef-113](https://dcganmnist-zyzbzievkeerzyxkndkrjf.streamlit.app/))** | PyTorch · TorchVision · Streamlit | Real-time digit synthesis |
+| 🏥 | **[Life Code — Digital Health Emergency](https://life-code-delta.vercel.app/)** | Full-Stack · NFC/QR · Redis | -70–90% emergency lookup time |
 
 </div>
 
