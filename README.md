@@ -170,7 +170,7 @@ print(me)
 | 🧠 | **[Fine-Tuned BERT Classifier](https://fine-tune-bert-for-text-classification-bwxjhkm4nvggmwzgr7arsy.streamlit.app/)** | PyTorch · HuggingFace · Streamlit | 91% accuracy |
 | 🎓 | **[Student Behavior Prediction](https://github.com/youssef-113)** | Python · Scikit-learn · Dashboard | 93% prediction accuracy |
 | 🚗 | **[Car Sales Forecasting](https://sales-forcasting-caes-sales-7kanxprhiwrjwimejctj4o.streamlit.app/)** | Python · Power BI · ML | 30-day price forecasting |
-| 🔢 | **[DCGAN Digit Generator]([https://github.com/youssef-113](https://dcganmnist-zyzbzievkeerzyxkndkrjf.streamlit.app/))** | PyTorch · TorchVision · Streamlit | Real-time digit synthesis |
+| 🔢 | **[DCGAN Digit Generator](https://dcganmnist-zyzbzievkeerzyxkndkrjf.streamlit.app/)** | PyTorch · TorchVision · Streamlit | Real-time digit synthesis |
 | 🏥 | **[Life Code — Digital Health Emergency](https://life-code-delta.vercel.app/)** | Full-Stack · NFC/QR · Redis | -70–90% emergency lookup time |
 
 </div>
